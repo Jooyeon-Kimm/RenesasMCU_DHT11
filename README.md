@@ -5,3 +5,6 @@ Receives temperature and humidity data every minute and activates the LED and bu
 언어: C  
 실행파일: DHT11_Demo  
 UI: LVGL  
+
+시연 영상:
+https://youtube.com/shorts/0kAwfqPc5go?feature=share
